@@ -1,0 +1,27 @@
+{
+  "name": "atm-machine",
+  "version": "1.0.0",
+  "description": "ATM Machine",
+  "main": "index.js",
+  "type" : "module",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimraarshad556/ATM-Machine.git"
+  },
+  "author": "Nimxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimraarshad556/ATM-Machine/issues"
+  },
+  "homepage": "https://github.com/nimraarshad556/ATM-Machine#readme",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
